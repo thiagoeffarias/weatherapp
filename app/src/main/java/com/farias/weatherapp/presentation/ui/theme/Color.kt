@@ -1,4 +1,4 @@
-package com.farias.weatherapp.ui.theme
+package com.farias.weatherapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
