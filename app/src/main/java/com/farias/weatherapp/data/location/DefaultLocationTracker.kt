@@ -5,19 +5,14 @@ import android.content.Context
 import android.content.pm.PackageManager
 import android.location.Geocoder
 import android.location.Location
-import android.location.LocationListener
 import android.location.LocationManager
 import android.os.Build
 import android.os.Bundle
-import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
-import androidx.core.content.ContextCompat.getSystemService
 import com.farias.weatherapp.domain.location.LocationTracker
 import com.google.android.gms.location.FusedLocationProviderClient
-import com.google.android.gms.location.Geofence
 import kotlinx.coroutines.suspendCancellableCoroutine
-import java.util.Locale
 import javax.inject.Inject
 import kotlin.coroutines.resume
 

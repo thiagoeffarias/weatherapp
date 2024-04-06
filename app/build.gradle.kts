@@ -76,7 +76,7 @@ dependencies {
     kapt(libs.hilt.android.compiler)
 
     implementation(libs.play.services.location)
-    implementation (libs.converter.moshi)
+    implementation(libs.converter.moshi)
 }
 
 kapt {
