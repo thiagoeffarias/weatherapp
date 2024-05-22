@@ -16,4 +16,4 @@
 
 
 ### Screenshots
-<img src="app%2Fassets%2FWeatherAppLight.png" width="300">    <img src="app%2Fassets%2FweatherAppDark.png" width="300">
+<img src="app%2Fassets%2FweatherAppLight.png" width="300">    <img src="app%2Fassets%2FweatherAppDark.png" width="300">
